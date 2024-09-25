@@ -1,0 +1,11 @@
+//здесь можно писать миксины
+
+$border-color: #ccc;
+
+@mixin simple-button {
+  padding: 5px 10px;
+  text-align: center;
+  border-radius: 5px;
+  border: 1px solid $border-color;
+}
+

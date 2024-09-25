@@ -1,0 +1,10 @@
+@import './reset.scss';
+@import './mixins.scss';
+
+
+.button {
+  background-color: hsl(200, 70%, 50%); /*  Сине-зеленый цвет  */
+  color: white;
+  padding: 15px 30px;
+  border: none;
+}
